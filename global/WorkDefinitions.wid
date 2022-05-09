@@ -168,5 +168,23 @@
             ],
             "icon" : "workItem.png"
 
+        ],
+        
+        [
+            "name" : "ExceptionHandler",
+            "displayName" : "ExceptionHandler",
+            "category" : "jbpm-workitems-exceptionHandler",
+            "description" : "",
+            "defaultHandler" : "mvel: new com.rh.handler.ExceptionHandler()",
+            "documentation" : "jbpm-workitems-exceptionHandler/index.html",
+
+            "parameters" : [
+
+            ],
+            "results" : [
+                
+
+            ],
+            "icon" : "keycloak.png"
         ]
 ]
