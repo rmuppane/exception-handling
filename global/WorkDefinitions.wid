@@ -140,23 +140,7 @@
         "icon" : "defaultresticon.png",
 
         "parameters" : [
-            "ConnectTimeout" : new StringDataType(),
-            "ResultClass" : new StringDataType(),
-            "ContentType" : new StringDataType(),
-            "AcceptCharset" : new StringDataType(),
-            "Headers" : new StringDataType(),
-            "AuthUrl" : new StringDataType(),
-            "Method" : new StringDataType(),
-            "ReadTimeout" : new StringDataType(),
-            "Url" : new StringDataType(),
-            "ContentTypeCharset" : new StringDataType(),
-            "HandleResponseErrors" : new StringDataType(),
-            "ContentData" : new StringDataType(),
-            "Username" : new StringDataType(),
-            "Content" : new StringDataType(),
-            "AcceptHeader" : new StringDataType(),
-            "AuthType" : new StringDataType(),
-            "Password" : new StringDataType()
+            "input" : new StringDataType()
         ],
         "results" : [
             "Result" : new StringDataType()
