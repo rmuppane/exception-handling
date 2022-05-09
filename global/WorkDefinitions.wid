@@ -135,7 +135,7 @@
         "displayName" : "ExceptionHandler",
         "category" : "jbpm-workitems-exception",
         "description" : "",
-        "defaultHandler" : "mvel: new org.jbpm.process.workitem.rest.RESTWorkItemHandler()",
+        "defaultHandler" : "mvel: new com.rh.handler.ExceptionHandler()",
         "documentation" : "jbpm-workitems-exception/index.html",
         "icon" : "defaultresticon.png",
 
